@@ -19,5 +19,5 @@ You might use persistence to keep track of the state of the game or track scores
 
 To Run file install via Npm I, Run Client File using Npm Start & Server file with Node Server.js, & Npm run Seeds to load database.
 
-<img width="265" height="150" alt="Screenshot 04/10/2021 img1" src="https://user-images.githubusercontent.com/83863108/135866280-ef45935c-d7dc-4655-9e35-7914427f959a.png"> <img width="265" height="150" alt="Screenshot 04/10/2021 img2" src="https://user-images.githubusercontent.com/83863108/135866567-feca74db-00c5-46b3-9641-d96c03283b10.png">
+<img width="465" height="150" alt="Screenshot 04/10/2021 img1" src="https://user-images.githubusercontent.com/83863108/135866280-ef45935c-d7dc-4655-9e35-7914427f959a.png"> <img width="465" height="150" alt="Screenshot 04/10/2021 img2" src="https://user-images.githubusercontent.com/83863108/135866567-feca74db-00c5-46b3-9641-d96c03283b10.png">
 
